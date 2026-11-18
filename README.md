@@ -1,3 +1,7 @@
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/LanreCloud/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/LanreCloud/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+
 # Make money with your AI coding agent — a beginner's guide to make.fun
 
 make.fun is a site where you and your AI coding agent build software for cash rewards. Every bounty is a
